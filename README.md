@@ -15,7 +15,7 @@ Half Subtractor:
 ### Files to be Created
 <img width="816" height="109" alt="FILES TO BE CREATED 3" src="https://github.com/user-attachments/assets/65ce8ce6-19b8-4765-8b3c-db5bf1e58247" />
 
-### Verilog Program
+### Design / RTL Program
 module half_adder (
     input  wire A,
     input  wire B,
