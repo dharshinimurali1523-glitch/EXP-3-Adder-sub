@@ -36,6 +36,7 @@ module half_subtractor (
     assign Borrow = (~A) & B;  // A' . B
 endmodule
 
+
 ### Testbench Program
 module tb3;
     reg A, B;
